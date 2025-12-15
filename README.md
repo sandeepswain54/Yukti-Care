@@ -1,4 +1,4 @@
-## 📸 App Screenshots
+## 📸 Yukti-Care App
 
 <img src="assets/yuktilogo.jpeg" width="250"/>
 
