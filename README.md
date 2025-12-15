@@ -3,9 +3,7 @@
 
 ## 📸 App Screenshots
 
-<img src="https://github.com/your-username/Yukti-Care/assets/123456/home.png" width="250">
-<img src="https://github.com/your-username/Yukti-Care/assets/123456/inventory.png" width="250">
-<img src="https://github.com/your-username/Yukti-Care/assets/123456/order.png" width="250">
+<img src="https://superbottoms.com/products/flow-lock-cloth-pads-pack-9-regular-3-overnight?srsltid=AfmBOoqYuSPnbk1RdkXBYYjlFMBOK3Q8OJ_WuoTfVfIFxa6E11fnUR9g" width="250">
 
 
 # 💻 Tech Stack:
