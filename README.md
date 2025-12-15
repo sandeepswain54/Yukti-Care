@@ -3,7 +3,7 @@
 
 ## 📸 App Screenshots
 
-<img src="https://superbottoms.com/products/flow-lock-cloth-pads-pack-9-regular-3-overnight?srsltid=AfmBOoqYuSPnbk1RdkXBYYjlFMBOK3Q8OJ_WuoTfVfIFxa6E11fnUR9g" width="250">
+<img src="assets/yuktilogo.jpeg" width="250"/>
 
 
 # 💻 Tech Stack:
